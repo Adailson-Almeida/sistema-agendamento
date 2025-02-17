@@ -1,0 +1,6 @@
+@SistemaDeAgendamento_HostAddress = http://localhost:5193
+
+GET {{SistemaDeAgendamento_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
